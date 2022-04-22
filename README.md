@@ -18,7 +18,7 @@ Contact - lalit.singh.ece21@itbhu.ac.in
 
 # Project Description
 
-In this projected I have created a google meet clone that is working with a chat box video audio call and have also a feature of screen sharing.
+In this project I have created a google meet clone that is working with a chat box video audio call and have also a feature of screen sharing.
 
 
 ![alt text](https://github.com/9389lalit/vc-app/blob/master/image/5.png?raw=true)
