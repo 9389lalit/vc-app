@@ -25,6 +25,11 @@ In this project I have created a google meet clone that is working with a chat b
 ![alt text](https://github.com/9389lalit/vc-app/blob/master/image/6.png?raw=true)
 ![alt text](https://github.com/9389lalit/vc-app/blob/master/image/7.png?raw=true)
 ![alt text](https://github.com/9389lalit/vc-app/blob/master/image/8.png?raw=true)
+# Video Link
+You can check the working of my site by using this link
+
+https://drive.google.com/file/d/1vtRPVC9kthl9XQXEUiEPl9-6O0URDmS8/view?usp=sharing
+
 ![alt text](https://github.com/9389lalit/vc-app/blob/master/image/9.png?raw=true)
 ![alt text](https://github.com/9389lalit/vc-app/blob/master/image/10.png?raw=true)
 
